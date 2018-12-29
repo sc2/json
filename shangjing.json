@@ -71,7 +71,7 @@
             "introduce" : "进攻型物品",
             "equ" : [
                 {
-                    "name" : "疾射火炮",
+                    "name" : "火炮",
                     "image" : "https://ossweb-img.qq.com/images/lol/img/item/3094.png"
                 },
                 {
