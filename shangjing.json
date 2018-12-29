@@ -28,7 +28,7 @@
             "image" : "https://ossweb-img.qq.com/images/lol/img/spell/ZedE.png",
             "introduce" : "劫和他的影分身进行斩击，对附近的敌人造成70/95/120/145/170 (+0.8)物理伤害。每个被劫的斩击所命中的敌方英雄都会使此技能的冷却时间减少2秒。",
             "twointroduce" : "被影分身的斩击所击中的敌人，将会被减速20/25/30/35/40%，持续1.5秒。被多个斩击同时击中的敌人，将会被减速30/37.5/45/52.5/60%，但不会受到额外伤害。"
-        }
+        },
         {
             "name" : "禁奥义！瞬狱影杀阵",
             "image" : "https://ossweb-img.qq.com/images/lol/img/spell/ZedR.png",
